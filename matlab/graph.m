@@ -1,4 +1,4 @@
-% Object Oriented Concurrent Programming - Homework-I
+%  
 % @author NubilaPardus
 %
 n = [2,3,4,8,12,16,24];
